@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    int digit1, digit2, digit3, digit4, r, number, N;
+    int digit1, digit2, digit3, digit4, r, number, N, m;
 
     cout << "enter a four digit integer: ";
     cin >> number;
